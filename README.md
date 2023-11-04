@@ -1,4 +1,5 @@
 # odin-recipes
 
-Create recipe website that includes 3 recipes
+Create a website of selected recipes.  
+
 
